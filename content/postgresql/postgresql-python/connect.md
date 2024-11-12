@@ -85,7 +85,7 @@ First, create a configuration file called `database.ini` in the project director
 ```python
 [postgresql]
 host=localhost
-database=suppliers
+dbname=suppliers
 user=YourUsername
 password=YourPassword
 ```
